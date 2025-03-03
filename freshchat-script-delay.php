@@ -3,14 +3,14 @@
  * Plugin Name:        Freshchat Script Delay
  * Plugin URI:         https://github.com/WPSpeedExpert/freshchat-script-delay
  * Description:        Forcefully delays the loading of the Freshchat script until user interaction. Includes a settings page to configure the Freshchat token.
- * Version:            2.8.2
+ * Version:            2.8.3
  * Author:             OctaHexa
  * Author URI:         https://octahexa.com
  * Text Domain:        freshchat-delay
  * License:            GPL-2.0+
  * License URI:        https://www.gnu.org/licenses/gpl-2.0.html
  * GitHub Plugin URI:  https://github.com/WPSpeedExpert/freshchat-script-delay
- * GitHub Branch:      main
+ * Primary Branch:     main
  */
 
 // Exit if accessed directly.
